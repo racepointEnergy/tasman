@@ -1,1 +1,1 @@
-Cloud apps.
+Integration apps.
